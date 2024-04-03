@@ -1,0 +1,16 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "FAQ Service",
+    "version": "1.0",
+    "description": "API Documentation for FAQ Service"
+  },
+  "servers": [
+    {
+      "url": "/",
+      "description": "Local server"
+    }
+  ],
+  "paths": {},
+  "components": {}
+}
